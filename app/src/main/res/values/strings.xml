@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AdvertisementUnity</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="initialization_completed">Initialization completed</string>
+    <string name="initialization_failed">Initialization failed</string>
+    <string name="banner">Banner</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="rewarded">Rewarded</string>
+
+    <string name="you_win">Você ganhou %1$d pontos</string>
+    <string name="you_will_earn_x_points_after_listing">Você ganhará %1$d pontos após o anúncio</string>
+    <string name="convert">Converter</string>
+    <string name="transfer">Transferir</string>
+</resources>
